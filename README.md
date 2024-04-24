@@ -64,8 +64,12 @@
 
 <br/><br/>
 <hr/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+✌️+for+visiting+!;+I'm+always+down+to+collab;" />
-</h1>
+<div align="center">
+<h3> "Crafting the future one commit at a time 🚀 | Turning keystrokes into innovation | Coding with passion, coffee, and curiosity ☕💻✨"</h3>
+<br/>
 
-<!-- <br/><br/
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
+</h3>
+
+<br/>
